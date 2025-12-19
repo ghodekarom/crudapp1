@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DBConnect {
 
-    private static final String dburl = "jdbc:postgresql://localhost:5432/postgres";
+    private static final String dburl = "jdbc:postgresql://localhost:5432/cruddb";
     private static final String dbuser = "postgres";
     private static final String dbpass = "password";
 
